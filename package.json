@@ -1,0 +1,19 @@
+{
+  "name": "tutsplus_comparing_front_end_frameworks",
+  "version": "1.0.0",
+  "description": "Comfareing frontend development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sandipkumarpal/TUTSPLUS_COMPARING_FRONT_END_FRAMEWORKS.git"
+  },
+  "author": "sandip pal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sandipkumarpal/TUTSPLUS_COMPARING_FRONT_END_FRAMEWORKS/issues"
+  },
+  "homepage": "https://github.com/sandipkumarpal/TUTSPLUS_COMPARING_FRONT_END_FRAMEWORKS#readme"
+}
